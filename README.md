@@ -9,3 +9,4 @@ It is strongly recommended to use Chrome
 ## How to draw
 You can specify canvas size, as well as the colors that you want to use in your drawing. <br> 
 After choosing a color, simply click on the pixels to create your design! :art:
+![screenshot](https://user-images.githubusercontent.com/32238868/30783250-cf76af90-a13f-11e7-9071-4247b11f9357.PNG)
