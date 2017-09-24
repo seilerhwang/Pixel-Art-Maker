@@ -4,6 +4,10 @@ var width;
 var mousedownState = false;
 
 // Saves color selection by user
+$('input[type=color]').change(function(){
+  color = $('#colorPicker'+$('input[type=radio]:checked').val()).val();
+});
+
 $('input[type=radio]').change(function() {
     switch ($(this).val()) {
         case '1':
